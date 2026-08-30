@@ -7,7 +7,7 @@ Repositório utilizada no desenvolvimento do projeto requerido na matéria Certi
 <div align="center">
   <figure>
     <img src="readME_image/prototipoFigma.png" alt="Protótipo Figma">
-    <figcaption>Protótipo do website feito com o Figma</figcaption>
+    <figcaption>Protótipo do website feito com o Figma - Tela Inicial</figcaption>
   </figure>
 </div>
 
